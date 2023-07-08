@@ -14,3 +14,6 @@ Use the MDb_Data_Casting to clean, cast and drop null data to obtain a new dataf
 
 
 In the future I'm going to add more files to obtain stats and some simple application to have fun with the dataframe. Collaborations and improvements are open and well accepted! 
+
+## MDB TELEGRAM BOT 🤖🤖
+First version of a simple telegram bot using the database to generate a random movie and random quiz. I'm going to add a Machine Learning algo to the new features.
